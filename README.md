@@ -1,4 +1,5 @@
 # Xdebug setup in VS code for Linux
+Open terminal from processmaker folder
 
 ### Step 1: Install xdebug
 
