@@ -80,3 +80,9 @@ This will create a launch.json file with the following content:
 2. In the Run and Debug view, select "Listen for Xdebug" and click the green play button.
 
 3. Run your PHP script or load it in your web browser.
+
+### Tips
+Include below line in php.ini to avoid xdebug warning
+```
+xdebug.log_level=0
+```
